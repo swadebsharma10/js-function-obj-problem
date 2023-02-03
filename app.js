@@ -15,3 +15,13 @@
 //     age:50, 
 //     eyeColor:"blue"
 // };
+
+
+
+// what is function??
+
+// Ans: Generally speaking, a function is a "subprogram"
+//  that can be called by code external (or internal, in the case of recursion)
+//  to the function.
+// সাধারণভাবে বলতে গেলে, একটি ফাংশন হল একটি "সাবপ্রোগ্রাম"
+//  যা ফাংশনে কোড বাহ্যিক (বা অভ্যন্তরীণ, পুনরাবৃত্তির ক্ষেত্রে) দ্বারা কল করা যেতে পারে |
